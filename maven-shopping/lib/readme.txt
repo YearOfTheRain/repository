@@ -1,0 +1,1 @@
+将本包下面的jar 全部放入 D:\jar 目录下 执行 maven_install.bat
